@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\UIProject\Test\bin\Debug\Test.exe.config
+C:\Users\HP\source\repos\UIProject\Test\bin\Debug\Test.exe
+C:\Users\HP\source\repos\UIProject\Test\bin\Debug\Test.pdb
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.Form1.resources
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.Sample.resources
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.exe
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.pdb
+C:\Users\HP\source\repos\UIProject\Test\bin\Debug\Final.accdb
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\UIProject\Test\obj\Debug\Test.csproj.ResolveComReference.cache
